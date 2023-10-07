@@ -1,0 +1,7 @@
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\JuegoTetris\JuegoTetris\bin\Debug\JuegoTetris.exe.config
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\JuegoTetris\JuegoTetris\bin\Debug\JuegoTetris.exe
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\JuegoTetris\JuegoTetris\bin\Debug\JuegoTetris.pdb
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\JuegoTetris\JuegoTetris\obj\Debug\JuegoTetris.csproj.AssemblyReference.cache
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\JuegoTetris\JuegoTetris\obj\Debug\JuegoTetris.csproj.CoreCompileInputs.cache
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\JuegoTetris\JuegoTetris\obj\Debug\JuegoTetris.exe
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\JuegoTetris\JuegoTetris\obj\Debug\JuegoTetris.pdb
